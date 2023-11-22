@@ -27,7 +27,7 @@ const Navbar = () => {
             </div>
             <div className="navbar-end gap-2">
                 <img className="w-11" src="/src/assets/user.png" alt="" />
-                <a className="btn btn-neutral">Login</a>
+                <a className="btn btn-neutral" href="/login">Login</a>
             </div>
         </div>
     );
